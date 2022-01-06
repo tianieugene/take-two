@@ -1,0 +1,183 @@
+ html {
+  line-height: 1.15;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+body{
+    background: #fff;
+    width: 100%;
+    height: cover;
+    background-size: 500%;
+    background-position: center center ;
+    border-radius: 5px;
+    color: #fff;
+    margin: auto;
+    
+
+    
+    
+    
+}
+.heading{
+    color: green;
+    text-align: center;
+    margin: 25px;
+    font-size: 3rem;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    background-color: green;
+    font-size: 0.9rem;
+}
+ a:hover {
+  background-color: lightgreen;
+  color: #000;
+}
+
+/* a:visited{
+    color: red;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-stretch: 0.7em;
+}*/
+
+
+ a:active {
+  color: grey;
+  box-shadow: none;
+  background-color: #fff;
+  top: 5px;
+
+}
+.selector_home{
+    padding: 8px;
+    border-radius: 5px;
+
+}
+.selector_gallery{
+    padding: 8px;
+    border-radius: 5px;
+
+}
+.selector_contact{
+    padding: 8px;
+    border-radius: 5px;
+
+}
+.selector_request{
+    padding: 8px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+.team{
+    background-color: #fff;
+    color: green;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.content{
+    height: 300%;
+    color: #fff;
+    text-align: center;
+    height: cover;
+    font-size: 1.2rem;
+    margin: 2px;
+    margin-top: 0;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+
+}
+h3 {
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-family: simplifica Sans-Serif;
+    font-size: 1rem;
+    font-weight: bolder;
+    margin: auto;
+    margin-left: 30px;
+    margin-top: 10px;
+    
+
+}
+.logo-container{
+    width: 98%;
+    border: solid 5px green;
+    border-radius: 5px;
+    height: cover;
+     background-color: #fff;
+    margin: 10px;
+    background-color: #fff;
+    text-align: center;
+
+}
+.logo{
+   width: 80px;
+   height: 80px;
+   margin: 2px;
+   position: relative;
+   background-color: #fff;
+    
+}
+
+.image{
+    border-radius: 5px;
+    
+}
+.sector{
+    width: 95%;
+    padding: 20px;
+    color: #fff;
+    border: solid 2px green;
+     border-radius: 5px;
+    margin: auto;
+    margin-bottom: 20px;
+margin-top: 20px;
+    text-align: center;
+    background: linear-gradient(-165deg,  #000 ,green , darkgreen);
+    font-weight: bold;
+}
+
+.links{
+    width: 95%;
+    margin: 2px auto 2px auto;
+    height: cover;
+    color: #000 ;
+    text-align: center;
+    
+}
+.clients{
+    width: 8%;
+    height: 50px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.contact{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.request{
+    color: #000;
+}
+.video{
+    width: 50%;
+    border-radius: 5px;
+}
+.images{
+    width: 60%;
+    height: 450px;
+    margin: 20px;
+    
+}
